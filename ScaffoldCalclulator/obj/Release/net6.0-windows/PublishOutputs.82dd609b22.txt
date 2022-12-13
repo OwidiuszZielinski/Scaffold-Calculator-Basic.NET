@@ -1,0 +1,5 @@
+C:\Users\Owidiusz Zieliński\Desktop\Scaffold\final\ScaffoldCalclulator\ScaffoldCalclulator\bin\publish\ScaffoldCalclulator.exe
+C:\Users\Owidiusz Zieliński\Desktop\Scaffold\final\ScaffoldCalclulator\ScaffoldCalclulator\bin\publish\ScaffoldCalclulator.dll
+C:\Users\Owidiusz Zieliński\Desktop\Scaffold\final\ScaffoldCalclulator\ScaffoldCalclulator\bin\publish\ScaffoldCalclulator.deps.json
+C:\Users\Owidiusz Zieliński\Desktop\Scaffold\final\ScaffoldCalclulator\ScaffoldCalclulator\bin\publish\ScaffoldCalclulator.runtimeconfig.json
+C:\Users\Owidiusz Zieliński\Desktop\Scaffold\final\ScaffoldCalclulator\ScaffoldCalclulator\bin\publish\ScaffoldCalclulator.pdb

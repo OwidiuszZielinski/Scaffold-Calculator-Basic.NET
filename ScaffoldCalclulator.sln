@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaffoldCalclulator", "ScaffoldCalclulator\ScaffoldCalclulator.csproj", "{D2ADEA9E-3167-489D-A2DF-4C46F0525368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2ADEA9E-3167-489D-A2DF-4C46F0525368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2ADEA9E-3167-489D-A2DF-4C46F0525368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2ADEA9E-3167-489D-A2DF-4C46F0525368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2ADEA9E-3167-489D-A2DF-4C46F0525368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699C11E7-96AC-416D-92ED-F737AB1EFD76}
+	EndGlobalSection
+EndGlobal
